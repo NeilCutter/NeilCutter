@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NeilCutter
+# - 👋 Hi, I’m @NeilCutter
 - 👀 I’m interested in coding and learning the web3
 - 🌱 I’m currently learning javascript and i will move it to reactJS
 - 💞️ I’m looking to collaborate on some projects using javascript
