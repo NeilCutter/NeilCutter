@@ -8,4 +8,4 @@ NeilCutter/NeilCutter is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://www.pinterest.com/pin/567523990538356835/)
+![](https://github.com/NeilCutter/NeilCutter/blob/main/programming.gif)
