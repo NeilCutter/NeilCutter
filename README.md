@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @NeilCutter
-    👀 I’m interested in coding and learning the Data Science
+    👀 I’m interested in coding and learning Data Science
     🌱 I’m currently learning data manipulation using the pandas library
     💞️ I’m looking to collaborate on some projects in Data Science, Machine Learning and Artificial Intelligence
 
